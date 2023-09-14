@@ -27,8 +27,26 @@ ne olduğunu tahmin eder, renkleri tanır)
 --ChatGPT API ile gelişmiş yapay zeka chat uygulaması eklenmesi
 *Daha bir çok yenilik eklenecektir...
 Kullanılan Kütüphaneler:
-PyQ
-
+PyQt5
+Selenium
+gTTS
+speech_recognition
+playaudio
+pyaudio
+tkinter
+Pillow
+requests
+Beutifulsoup
+OS
+WMI
+sys
+psutill
+threading
+phonenumbers
+re
+subprocess
+shutill
+GPUtill
 
 
 
@@ -58,3 +76,24 @@ guesses what the object is, recognizes colors)
 --Adding a CV maker where you can create your own CV for free
 --Adding artificial intelligence chat application developed with ChatGPT API
 *Many more innovations will be added...
+Used libraries:
+PyQt5
+Selenium
+gTTS
+speech_recognition
+playaudio
+pyaudio
+tkinter
+Pillow
+requests
+Beutifulsoup
+OS
+WMI
+sys
+psutill
+threading
+phonenumbers
+re
+subprocess
+shutill
+GPUtill
