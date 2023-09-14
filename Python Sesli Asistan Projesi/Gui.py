@@ -785,5 +785,5 @@ def arayuz():
     sys.exit(app.exec_())
 
 
-arayuz()
+
 
