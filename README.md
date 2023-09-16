@@ -1,6 +1,5 @@
-# DORA-sesli-asista-Voice-assistant
-DORA Voice assistant have been developed  by Mehmet Çakmak
-                                       DORA
+
+                                       DORA                                              
 DORA V1.0 Mehmet Çakmak tarafından geliştirilmiştir. Kendi arayüzü bulunan sesli asistanın
 geliştirme süreci devam etmektedir. Aktif etmek için "dora" diye seslenmeniz gerekmektedir.
 Dora'nın arayüzü sayesinde tarih,saat,lokasyon bilgilerinize ulaşabilir; CPU,RAM ve Hafıza
@@ -51,7 +50,7 @@ GPUtill
 
 
 
-                                        DORA
+                                        DORA                                          
 DORA V1.0 was developed by Mehmet Çakmak. DORA has own GUI. DORA continues to develop.
 To activate DORA, you need to call out "dora".Thanks to Dora's interface, you can access your date,
 time and location information; Thanks to Dora's interface you can see CPU,RAM and Memory usage.
