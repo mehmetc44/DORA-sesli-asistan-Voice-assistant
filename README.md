@@ -1,5 +1,4 @@
-
-                                       DORA                                              
+#DORA                                              
 DORA V1.0 Mehmet Çakmak tarafından geliştirilmiştir. Kendi arayüzü bulunan sesli asistanın
 geliştirme süreci devam etmektedir. Aktif etmek için "dora" diye seslenmeniz gerekmektedir.
 Dora'nın arayüzü sayesinde tarih,saat,lokasyon bilgilerinize ulaşabilir; CPU,RAM ve Hafıza
