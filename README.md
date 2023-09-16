@@ -5,7 +5,9 @@ Dora'nın arayüzü sayesinde tarih,saat,lokasyon bilgilerinize ulaşabilir; CPU
 kullanımlarınıza anlık olarak erişebilirsiniz. Ayrıca cihazınızla ilgili diğer bilgilerede
 erişebilirsiniz.
 
-DORA ile yapabilecekleriniz:
+
+
+### DORA ile yapabilecekleriniz:
 
 --Hava durumunu öğrenebilir
 
@@ -28,7 +30,8 @@ DORA ile yapabilecekleriniz:
 --Aklından belli aralıkta sayı tutumasını sağlayabilirsiniz.
 
 
-DORA ya eklenmesi planlanan yenilikler:
+
+### DORA ya eklenmesi planlanan yenilikler:
 
 --Yapayzeka ile chat bot eklenmesi
 
@@ -44,7 +47,8 @@ ne olduğunu tahmin eder, renkleri tanır)
 
 *Daha bir çok yenilik eklenecektir...
 
-Kullanılan Kütüphaneler:
+
+### Kullanılan Kütüphaneler:
 
 PyQt5
 
@@ -95,7 +99,9 @@ To activate DORA, you need to call out "dora".Thanks to Dora's interface, you ca
 time and location information; Thanks to Dora's interface you can see CPU,RAM and Memory usage.
 Also you can see other informations about your device.
 
-With DORA you can:
+
+
+### With DORA you can: 
 
 --You can ask how the weather is
 
@@ -118,7 +124,7 @@ With DORA you can:
 --You can make him keep a certain range of numbers in his mind.
 
 
-Innovations planned to be added to DORA:
+### Innovations planned to be added to DORA:
 
 --Adding chat bot with artificial intelligence
 
@@ -133,7 +139,9 @@ guesses what the object is, recognizes colors)
 --Adding artificial intelligence chat application developed with ChatGPT API
 *Many more innovations will be added...
 
-Used libraries:
+
+
+### Used libraries:
 
 PyQt5
 
